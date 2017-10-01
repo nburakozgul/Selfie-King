@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/grey">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/burak"
+        android:layout_marginBottom="19dp"
+        android:id="@+id/imageView3"
+        android:layout_above="@+id/randButton"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="Random Filter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/randButton"
+        android:layout_marginBottom="134dp"
+        android:background="@drawable/buttonshape"
+        android:padding="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/imageView3"
+        android:layout_alignStart="@+id/imageView3" />
+
+    <Button
+        android:text="Select Filter"
+        android:layout_height="wrap_content"
+        android:id="@+id/selectButton"
+        android:background="@drawable/buttonshape"
+        android:elevation="0dp"
+        android:layout_width="wrap_content"
+        android:padding="10dp"
+        android:layout_alignBaseline="@+id/randButton"
+        android:layout_alignBottom="@+id/randButton"
+        android:layout_alignRight="@+id/imageView3"
+        android:layout_alignEnd="@+id/imageView3" />
+
+</RelativeLayout>

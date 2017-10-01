@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/grey">
+
+    <CheckBox
+        android:text="Pirateye"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkBoxPirateye"
+        android:layout_marginBottom="25dp"
+        android:layout_above="@+id/checkBoxSantaHat"
+        android:layout_alignLeft="@+id/checkBoxSantaHat"
+        android:layout_alignStart="@+id/checkBoxSantaHat" />
+
+    <CheckBox
+        android:text="PirateHat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkBoxPirateHat"
+        android:layout_marginBottom="21dp"
+        android:layout_above="@+id/checkBoxPirateye"
+        android:layout_alignLeft="@+id/checkBoxPirateye"
+        android:layout_alignStart="@+id/checkBoxPirateye" />
+
+    <CheckBox
+        android:text="Eyes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkBoxEyes"
+        android:layout_marginBottom="20dp"
+        android:layout_above="@+id/checkBoxPirateHat"
+        android:layout_alignLeft="@+id/checkBoxPirateHat"
+        android:layout_alignStart="@+id/checkBoxPirateHat" />
+
+    <CheckBox
+        android:text="Mustache"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkBoxBiyik"
+        android:layout_marginBottom="19dp"
+        android:layout_above="@+id/checkBoxEyes"
+        android:layout_alignLeft="@+id/checkBoxEyes"
+        android:layout_alignStart="@+id/checkBoxEyes" />
+
+    <Button
+        android:text="Ok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="148dp"
+        android:id="@+id/okButton"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/buttonshape"/>
+
+    <CheckBox
+        android:text="SantaHat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkBoxSantaHat"
+        android:layout_marginBottom="24dp"
+        android:layout_above="@+id/okButton"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="116dp"
+        android:layout_marginStart="116dp" />
+
+
+</RelativeLayout>

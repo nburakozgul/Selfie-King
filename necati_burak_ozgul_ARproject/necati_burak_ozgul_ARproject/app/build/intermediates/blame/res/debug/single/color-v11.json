@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Users\\bozgul\\Desktop\\LiveFacialFeatures\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "D:\\Users\\bozgul\\Desktop\\LiveFacialFeatures\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\bozgul\\Desktop\\necati_burak_ozgul_ARproject\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "D:\\Users\\bozgul\\Desktop\\necati_burak_ozgul_ARproject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\bozgul\\AndroidStudioProjects\\LiveFacialFeatures\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "D:\\Users\\bozgul\\AndroidStudioProjects\\LiveFacialFeatures\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\bozgul\\Desktop\\LiveFacialFeatures\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "D:\\Users\\bozgul\\Desktop\\LiveFacialFeatures\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\bozgul\\AndroidStudioProjects\\LiveFacialFeatures\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "D:\\Users\\bozgul\\AndroidStudioProjects\\LiveFacialFeatures\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\bozgul\\Desktop\\necati_burak_ozgul_ARproject\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "D:\\Users\\bozgul\\Desktop\\necati_burak_ozgul_ARproject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
